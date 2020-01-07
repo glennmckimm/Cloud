@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThAmCo_Inventory.Web", "ThAmCo_Inventory\ThAmCo_Inventory.Web.csproj", "{F45290B4-FC56-4D60-AC1F-7051AAAEE91A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThAmCo_Inventory.Data", "ThAmCo_Inventory.Data\ThAmCo_Inventory.Data.csproj", "{FAEA84F2-A659-4F56-B68B-022990C29740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F45290B4-FC56-4D60-AC1F-7051AAAEE91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45290B4-FC56-4D60-AC1F-7051AAAEE91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45290B4-FC56-4D60-AC1F-7051AAAEE91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45290B4-FC56-4D60-AC1F-7051AAAEE91A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEA84F2-A659-4F56-B68B-022990C29740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEA84F2-A659-4F56-B68B-022990C29740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEA84F2-A659-4F56-B68B-022990C29740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEA84F2-A659-4F56-B68B-022990C29740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {027D2F2D-21A3-4A43-8EF0-DACA3D0C596A}
+	EndGlobalSection
+EndGlobal

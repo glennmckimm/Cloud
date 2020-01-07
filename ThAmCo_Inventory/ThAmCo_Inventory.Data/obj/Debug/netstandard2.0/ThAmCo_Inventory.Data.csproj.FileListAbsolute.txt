@@ -1,0 +1,8 @@
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory.Data\bin\Debug\netstandard2.0\ThAmCo_Inventory.Data.deps.json
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory.Data\bin\Debug\netstandard2.0\ThAmCo_Inventory.Data.dll
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory.Data\bin\Debug\netstandard2.0\ThAmCo_Inventory.Data.pdb
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory.Data\obj\Debug\netstandard2.0\ThAmCo_Inventory.Data.AssemblyInfoInputs.cache
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory.Data\obj\Debug\netstandard2.0\ThAmCo_Inventory.Data.AssemblyInfo.cs
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory.Data\obj\Debug\netstandard2.0\ThAmCo_Inventory.Data.dll
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory.Data\obj\Debug\netstandard2.0\ThAmCo_Inventory.Data.pdb
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory.Data\obj\Debug\netstandard2.0\ThAmCo_Inventory.Data.csprojAssemblyReference.cache

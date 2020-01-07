@@ -1,0 +1,5 @@
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory\obj\Debug\netcoreapp2.2\ThAmCo_Inventory.csprojAssemblyReference.cache
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory\obj\Debug\netcoreapp2.2\ThAmCo_Inventory.RazorAssemblyInfo.cache
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory\obj\Debug\netcoreapp2.2\ThAmCo_Inventory.RazorAssemblyInfo.cs
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory\obj\Debug\netcoreapp2.2\ThAmCo_Inventory.AssemblyInfoInputs.cache
+C:\Users\Glenn\Desktop\Inventory\ThAmCo_Inventory\ThAmCo_Inventory\obj\Debug\netcoreapp2.2\ThAmCo_Inventory.AssemblyInfo.cs
